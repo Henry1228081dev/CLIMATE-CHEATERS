@@ -124,11 +124,11 @@ export function CallOfDutyIntro({
           <div className="space-y-4">
              <div className="flex items-center gap-2">
                 <div className="w-2 h-2 rounded-full bg-green-500 shadow-[0_0_8px_#22c55e]" />
-                <span className="text-xs font-mono text-green-500 tracking-tighter uppercase font-bold">> PROTOCOL: SAVERS_INIT</span>
+                <span className="text-xs font-mono text-green-500 tracking-tighter uppercase font-bold">&gt; PROTOCOL: SAVERS_INIT</span>
              </div>
              <div className="flex items-center gap-2">
                 <div className="w-2 h-2 rounded-full bg-green-500 shadow-[0_0_8px_#22c55e]" />
-                <span className="text-xs font-mono text-green-500 tracking-tighter uppercase font-bold">> ACCESS: GRANTED</span>
+                <span className="text-xs font-mono text-green-500 tracking-tighter uppercase font-bold">&gt; ACCESS: GRANTED</span>
              </div>
           </div>
        </div>
